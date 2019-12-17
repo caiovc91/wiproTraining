@@ -1,0 +1,6 @@
+com\example\demo\pokemon\TrainerController.class
+com\example\demo\DemoApplication.class
+com\example\demo\pokemon\TrainerRepository.class
+com\example\demo\pokemon\Trainer.class
+com\example\demo\pokemon\TrainerService.class
+com\example\demo\pokemon\Pokemon.class
